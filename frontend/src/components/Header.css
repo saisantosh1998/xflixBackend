@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    height: 5vh;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+    background: #292929;
+}
+
+.search {
+    width: 573px;
+    background: #121212;
+    border: 1px solid #444D56 !important;
+    border-radius: 2px 0px 0px 2px !important;
+}
+.search input{
+    color:white !important;
+}
+.icon{
+    background: #444D56;
+}
+.text-field{
+    width:100%!important;
+}
+.text-field .MuiInputLabel-root,.text-field .MuiInputLabel-formControl,.text-field .MuiInputBase-input::placeholder,.text-field .MuiFormHelperText-root {
+    color:white!important;
+}
+.text-field  .MuiInputBase-formControl{
+    color: whitesmoke!important;
+}
+.customButton{
+    color:white!important;
+    border-radius: 500px!important;
+    background-color: #863333!important;
+}

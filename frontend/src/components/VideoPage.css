@@ -1,0 +1,12 @@
+.custom-button-primary{
+    border-radius: 500px!important;
+    background-color: #1976d2!important;
+    color:white!important;
+    height: 30px!important;
+}
+.custom-button-grey{
+    border-radius: 500px!important;
+    background-color: #292929!important;
+    color:white!important;
+    height: 30px!important;
+}
